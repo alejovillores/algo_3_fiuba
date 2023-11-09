@@ -75,7 +75,7 @@ time {
 }
 
 #container nav {
-  border-bottom: solid 3px #cecece;
+  border-bottom: solid 3px #eeeeee;
   padding-bottom: 0.5em;
   font-family: "Ruda", sans-serif;
 }
@@ -140,7 +140,7 @@ time {
   display: flex;
   justify-content: space-between;
   padding: 0.5em 0;
-  border-bottom: 1px solid #cecece;
+  border-bottom: 1px solid #eeeeee;
 }
 
 #container main section#list ul li time,
@@ -228,7 +228,7 @@ time {
 }
 
 #container footer {
-  border-top: solid 1px #cecece;
+  border-top: solid 1px #eeeeee;
 }
 
 #container footer h6 {
@@ -397,7 +397,7 @@ table {
 }
 
 table thead {
-  background-color: #cecece;
+  background-color: #eeeeee;
 }
 
 blockquote {

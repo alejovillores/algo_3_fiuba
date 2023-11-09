@@ -39,9 +39,6 @@ PAGE_SAVE_AS = 'pages/{slug}.html'
 # Uncomment following line if you want document-relative URLs when developing
 # RELATIVE_URLS = True
 
-# STATIC_PATHS = [
-#    'images',
-#    'extra/robots.txt',
-#    ]
+STATIC_PATHS = ['images']
 
 THEME = 'Peli-Kiera'

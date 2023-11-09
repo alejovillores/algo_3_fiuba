@@ -10,6 +10,8 @@ url:index.html
 
 ¡Bienvenido al curso de Algoritmos y Programación III!
 
+<img src="{static}/images/logo_simple.png" width="150" height="300">
+
 ## Acerca del Curso
 
 Este curso se enfoca en el diseño orientado a objetos, proporcionando a los estudiantes herramientas avanzadas para abordar problemas complejos mediante algoritmos eficientes y programación estructurada. Exploraremos los principios fundamentales de la programación orientada a objetos, la eficiencia algorítmica y la resolución práctica de problemas del mundo real.

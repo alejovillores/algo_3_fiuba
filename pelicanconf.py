@@ -1,10 +1,11 @@
 import os
+
 DEV_ENV = os.environ['DEV']
 
 # Author and Site information
 AUTHOR = 'Alejo Villores'
 SITENAME = 'Algoritmos y Programacion III - Catedra Suarez'
-SITEURL = '' if DEV_ENV else 'https://alejovillores.github.io/algo_3_fiuba'
+SITEURL = '' if DEV_ENV == True else 'https://alejovillores.github.io/algo_3_fiuba'
 GITHUB_URL = 'https://github.com/alejovillores/algo_3_fiuba'
 LINKEDIN = 'https://www.linkedin.com/in/alejo-villores-0050331b9/'
 PATH = 'content'

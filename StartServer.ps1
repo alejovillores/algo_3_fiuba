@@ -9,7 +9,8 @@ function Write-ColoredText {
 
 # Set the DEV environment variable
 Write-ColoredText "Setting DEV environment variable" "Magenta"
-$env:DEV = $true
+[System.Environment]::SetEnvironmentVariable("DEV", $true, [System.EnvironmentVariableTarget]::Process)
+
 
 # Run 'pelican content' to create the appropriate output
 Write-ColoredText "Running 'pelican content'..." "Magenta"
@@ -22,7 +23,7 @@ if ($LASTEXITCODE -ne 0) {
 } else {
     # Get command line arguments
     $arguments = $args
-
+    Write-Host $pelicanContentResult
     # Check if the --reload flag is present
     if ($arguments -contains "-R" -or $arguments -contains "--reload"  ) {
         Write-ColoredText "Reload flag detected. Running 'pelican --autoreload --listen'." "Green"

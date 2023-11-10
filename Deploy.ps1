@@ -7,7 +7,9 @@ function Write-ColoredText {
     Write-Host $text -ForegroundColor $color
 }
 
-$env:DEV = $false
+# Set the DEV environment variable
+Write-ColoredText "Turning off DEV environment variable" "Magenta"
+[System.Environment]::SetEnvironmentVariable("DEV", $null, [System.EnvironmentVariableTarget]::Process)
 
 Write-ColoredText "Genereating production output" "Magenta"
 $pelicanContentResult = pelican content

@@ -6,9 +6,9 @@ Position: 1
 save_as: index.html
 url:index.html
 
-# Algoritmos y Programación III
+## Bienvenidos al curso 75.07/95.02 Algoritmos y Programación III.
 
-Bienvenidos al curso 75.07/95.02 Algoritmos y Programación III.
+<img src="{static}/images/logofiuba.jpg" alt="fiuba" width="100" height="200">
 
 ## Cronograma
 

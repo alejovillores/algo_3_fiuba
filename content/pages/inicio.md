@@ -75,4 +75,4 @@ Bienvenidos al curso 75.07/95.02 Algoritmos y Programación III.
 
 ---
 
-> Desarrollado con aprecio por [Alejo Villores](https://github.com/alejovillores)
+Desarrollado con cariño a la Universidad de Buenos Aires por [Alejo Villores](https://github.com/alejovillores)

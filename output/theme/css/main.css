@@ -75,7 +75,7 @@ time {
 }
 
 #container nav {
-  border-bottom: solid 3px #eeeeee;
+  border-bottom: solid 3px #f7f6f6;
   padding-bottom: 0.5em;
   font-family: "Ruda", sans-serif;
 }
@@ -140,7 +140,7 @@ time {
   display: flex;
   justify-content: space-between;
   padding: 0.5em 0;
-  border-bottom: 1px solid #eeeeee;
+  border-bottom: 1px solid #f7f6f6;
 }
 
 #container main section#list ul li time,
@@ -228,7 +228,7 @@ time {
 }
 
 #container footer {
-  border-top: solid 1px #eeeeee;
+  border-top: solid 1px #f7f6f6;
 }
 
 #container footer h6 {
@@ -397,12 +397,12 @@ table {
 }
 
 table thead {
-  background-color: #eeeeee;
+  background-color: #f7f6f6;
 }
 
 blockquote {
   margin: 1em;
-  border-left: solid 0.1em #cecece;
+  border-left: solid 0.1em #f7f6f6;
   padding: 0.5em 2em;
   position: relative;
   background-color: #efefef;

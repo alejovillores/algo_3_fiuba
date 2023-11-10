@@ -14,7 +14,7 @@ Write-ColoredText "Setting DEV environment variable" "Magenta"
 
 # Run 'pelican content' to create the appropriate output
 Write-ColoredText "Running 'pelican content'..." "Magenta"
-$pelicanContentResult = pelican content
+$pelicanContentResult = pelican content -o output -s pelicanconf.py
 
 # Check the exit code of 'pelican content'
 if ($LASTEXITCODE -ne 0) {

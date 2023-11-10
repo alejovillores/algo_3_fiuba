@@ -12,7 +12,7 @@ Write-ColoredText "Turning off DEV environment variable" "Magenta"
 [System.Environment]::SetEnvironmentVariable("DEV", $null, [System.EnvironmentVariableTarget]::Process)
 
 Write-ColoredText "Genereating production output" "Magenta"
-$pelicanContentResult = pelican content
+$pelicanContentResult = pelican content -o output -s pelicanconf.py
 
 
 if ($LASTEXITCODE -ne 0) {

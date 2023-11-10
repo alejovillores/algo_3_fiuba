@@ -3,7 +3,7 @@
 
 AUTHOR = 'Alejo Villores'
 SITENAME = 'Algoritmos y Programacion III - Catedra Suarez'
-SITEURL = ''
+SITEURL = 'https://alejovillores.github.io/algo_3_fiuba'
 GITHUB_URL = 'https://github.com/alejovillores/algo_3_fiuba'
 LINKEDIN = 'https://www.linkedin.com/in/alejo-villores-0050331b9/'
 PATH = 'content'
@@ -33,7 +33,7 @@ DISPLAY_PAGES_ON_MENU = True
 
 DELETE_OUTPUT_DIRECTORY = True
 
-PAGE_URL = 'pages/{slug}.html'
+PAGE_URL = '/pages/{slug}.html'
 PAGE_SAVE_AS = 'pages/{slug}.html'
 
 

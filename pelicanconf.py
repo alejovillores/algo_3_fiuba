@@ -4,7 +4,8 @@
 AUTHOR = 'Alejo Villores'
 SITENAME = 'Algoritmos y Programacion III - Catedra Suarez'
 SITEURL = ''
-GITHUB_URL = 'https://github.com/alejovillores'
+GITHUB_URL = 'https://github.com/alejovillores/algo_3_fiuba'
+LINKEDIN = 'https://www.linkedin.com/in/alejo-villores-0050331b9/'
 PATH = 'content'
 
 # Time and Date
@@ -19,11 +20,11 @@ AUTHOR_FEED_ATOM = None
 AUTHOR_FEED_RSS = None
 
 # Blogroll
-# LINKS = (('Pelican', 'https://getpelican.com/'),)
+# LINKS = (('Campus Fiuba', 'https://campusgrado.fi.uba.ar/'),)
 
 # Social widget
-# SOCIAL = (('You can add links in your config file', '#'),
-#          ('Another social link', '#'),)
+# SOCIAL = (('Github', '#'),
+#          ('Linkedin', '#'),)
 
 # Pagination and Order
 DEFAULT_PAGINATION = 10

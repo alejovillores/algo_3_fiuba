@@ -8,30 +8,71 @@ url:index.html
 
 # Algoritmos y Programación III
 
-¡Bienvenido al curso de Algoritmos y Programación III!
+Bienvenidos al curso 75.07/95.02 Algoritmos y Programación III.
 
-<img src="{static}/images/logo_simple.png" width="150" height="300">
+## Cronograma
 
-## Acerca del Curso
+<iframe src="https://campusgrado.fi.uba.ar/mod/page/view.php?id=104705" width="600" height="600" frameborder="0"></iframe>
 
-Este curso se enfoca en el diseño orientado a objetos, proporcionando a los estudiantes herramientas avanzadas para abordar problemas complejos mediante algoritmos eficientes y programación estructurada. Exploraremos los principios fundamentales de la programación orientada a objetos, la eficiencia algorítmica y la resolución práctica de problemas del mundo real.
+## Bibliografia
 
-## Frase Inspiradora
+### Libros sobre Pharo
 
-> "La programación orientada a objetos no es solo un conjunto de trucos técnicos. Es una forma completamente diferente de pensar sobre la construcción de software."  
-> — Kent Beck
+1. [**Updated Pharo By Example**](http://files.pharo.org/books-pdfs/updated-pharo-by-example/2017-01-14-UpdatedPharoByExample.pdf), 2017  
+   Autores: Stéphane Ducasse, Dimitris Chloupis, Nicolai Hess y Dmitri Zagidulin  
+   Una traducción al español de la primera versión puede encontrarse [aquí](http://files.pharo.org/books-pdfs/updated-pharo-by-example/2017-01-14-UpdatedPharoByExample.pdf).
 
-Esta frase de Kent Beck destaca la importancia de adoptar una mentalidad diferente al utilizar el paradigma de programación orientada a objetos. En este curso, nos sumergiremos en esa mentalidad para construir soluciones robustas y eficientes.
+2. [**Learning Object-Oriented Programming, Design with TDD in Pharo**](http://files.pharo.org/books-pdfs/learning-oop/2018-04-01-LearningOOP.pdf), 2018  
+   Autores: Stéphane Ducasse, Damien Pollet
 
-## Objetivos del Curso
+3. [**Deep Into Pharo**](http://files.pharo.org/books-pdfs/deep-into-pharo/2013-DeepIntoPharo-EN.pdf), 2013  
+   Autores: Alexandre Bergel, Damien Cassou, Stéphane Ducasse, Jannik Laval  
+   Más libros sobre Pharo: [aquí](enlace).
 
-- Comprender los principios del diseño orientado a objetos.
-- Aplicar algoritmos eficientes en la resolución de problemas.
-- Desarrollar habilidades prácticas a través de proyectos y trabajos prácticos.
-- Analizar la complejidad temporal y espacial de los programas.
+### Libros sobre Orientación a Objetos
 
-Únete a nosotros en este emocionante viaje de aprendizaje y descubrimiento en el mundo de la programación avanzada.
+1. [**Programación Orientada a Objetos**](https://drive.google.com/file/d/14uIDAdktmJ3Bb2SDFZpH5Q43bRY249Oy/view?usp=sharing), 2018 (versión inédita)  
+   Autor: Carlos Fontela
+
+2. [**Orientación a Objetos con Java y UML**](http://catalogo.fi.uba.ar/cgi-bin/koha/opac-detail.pl?biblionumber=9568), 2011  
+   Autor: Carlos Fontela
+
+3. **Desarrollo de Software Orientado a Objetos**, 1999  
+   Autor: Bertrand Meyer
+
+### Libros sobre UML
+
+1. [**UML: Modelado de Software para Profesionales**](http://catalogo.fi.uba.ar/cgi-bin/koha/opac-detail.pl?biblionumber=9592), 2011  
+   Autor: Carlos Fontela
+
+2. [**UML Gota a Gota**](http://catalogo.fi.uba.ar/cgi-bin/koha/opac-detail.pl?biblionumber=9842), 1999  
+   Autor: Martin Fowler
+
+3. **UML para Programadores Java**, 2004  
+   Autor: [Robert Martin](https://sites.google.com/site/unclebobconsultingllc/)
+
+### Otros
+
+- **Code Complete**, 2004  
+  Autor: Steve McConnell
+
+- **Head-First Design Patterns**, 2004  
+  Autores: Bert Bates, Kathy Sierra, Eric Freeman, Elisabeth Robson
+
+- **Refactoring: Improving the Design of Existing Code**, 2000  
+  Autor: Martin Fowler
+
+- **Extreme Programming Explained**, 2004  
+  Autor: Kent Beck
+
+- **Test Driven Development: By Example**  
+  Autor: Kent Beck
+
+- **Clean Code: A Handbook of Agile Software Craftsmanship**  
+  Autor: Robert Martin
+
+- [**Refactoring Guru - Patrones de Diseño**](https://refactoring.guru/es)
 
 ---
 
-_¡Inscripciones abiertas!_
+> Desarrollado con aprecio por [Alejo Villores](https://github.com/alejovillores)

@@ -6,9 +6,27 @@ Position: 1
 save_as: index.html
 url:index.html
 
-## Bienvenidos al curso 75.07/95.02 Algoritmos y Programación III.
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <style>
+      .container {
+         display:flex;
+         justify-content: center;
+         align-items: center;
+      }
+      #logo {
+         height: 10rem;
+         width: 22rem;
+      }
+  </style>
+</head>
 
-<img src="{static}/images/logofiuba.jpg" alt="fiuba" width="100" height="200">
+<div class="container">
+   <img id="logo" src="{static}/images/logofiuba.jpg" alt="fiuba" >
+</div>
+
+## Bienvenidos al curso 75.07/95.02 Algoritmos y Programación III.
 
 ## Cronograma
 

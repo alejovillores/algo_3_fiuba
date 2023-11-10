@@ -1,7 +1,7 @@
 Title: Preguntas Frecuentes
 Slug: fqa
 Authors: Alejo Villores
-Summary: Short version for index and feeds
+Summary: preguntas frecuentes de los alumnos
 Position: 3
 
-Following is a review of my favorite mechanical keyboard.
+En procesoo!!

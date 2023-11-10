@@ -33,7 +33,7 @@ DISPLAY_PAGES_ON_MENU = True
 
 DELETE_OUTPUT_DIRECTORY = True
 
-PAGE_URL = '/pages/{slug}.html'
+PAGE_URL = 'pages/{slug}.html'
 PAGE_SAVE_AS = 'pages/{slug}.html'
 
 

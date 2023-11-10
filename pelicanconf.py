@@ -42,4 +42,4 @@ PAGE_SAVE_AS = 'pages/{slug}.html'
 
 STATIC_PATHS = ['images']
 
-THEME = 'Peli-Kiera'
+THEME = 'theme'

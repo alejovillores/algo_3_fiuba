@@ -4,8 +4,6 @@ Authors: Alejo Villores
 Summary: preguntas frecuentes de los alumnos
 Position: 3
 
-# Preguntas Frecuentes
-
 ## Índice
 
 - [Certificado de Examen](#certificado-de-examen)

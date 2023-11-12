@@ -28,7 +28,7 @@ url:index.html
 
 ## Bienvenidos al curso 75.07/95.02 Algoritmos y Programación III.
 
-## Cronograma
+## [Cronograma](https://campusgrado.fi.uba.ar/mod/page/view.php?id=104705)
 
 <iframe src="https://campusgrado.fi.uba.ar/mod/page/view.php?id=104705" width="600" height="600" frameborder="0"></iframe>
 

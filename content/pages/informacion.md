@@ -31,10 +31,6 @@ Por ultimo el/la personal del departamento que lo recibe, lo firma electrónicam
 
 ## ¿Qué pasa si desapruebo el TP1?
 
-# Tabla de Tres Columnas
-
-# Decisiones sobre TP1
-
 | Situación                   | ¿Puedo dar reentrega? | ¿Aprobé reentrega? | ¿Continúo con la materia? |
 | --------------------------- | --------------------- | ------------------ | ------------------------- |
 | Entregué el TP1 y desaprobé | Sí                    | Sí                 | Sí                        |
